@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXTINF:10,
-https://snippet-stg.univtec.com/player-mobile.html?stream=https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8&autoplay=false
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
 #EXTINF:10,
-https://snippet-stg.univtec.com/player-mobile.html?stream=https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8&autoplay=false
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
