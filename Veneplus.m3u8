@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:10,
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
+#EXTINF:10,
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
