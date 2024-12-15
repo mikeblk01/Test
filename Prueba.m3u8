@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:4
-#EXT-X-STREAM-INF:BANDWIDTH=800000
-http://fl1.moveonjoy.com:80/NFL_7/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000
+http://fortv.cc:8080/5ybSS2/616430/120749
 #EXT-X-STREAM-INF:BANDWIDTH=900000
 http://fl2.moveonjoy.com:80/NFL_6/tracks-v1a1/mono.m3u8
