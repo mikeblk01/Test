@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Dazn 1 ES
-#EXTVLCOPT:http-drm-url=https://ottb.live.cf.ww.aiv-cdn.net.../v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#EXTVLCOPT:https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 #EXTVLCOPT:http-drm-key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://ottb.live.cf.ww.aiv-cdn.net.../v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
