@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
-#EXTINF:10,https://photocalltv.org/b2fr/l3?ch=telemundo47_ny
+#EXTINF:10,
+https://photocalltv.org/b2fr/l3?ch=telemundo47_ny
