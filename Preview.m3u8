@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, mas retos
-https://vod2live.univtec.com/manifest/ffdcd545-207f-4df8-88fa-65be669aa60b.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000
+https://univtec.com/manifest/ffdcd545-207f-4df8-88fa-65be669aa60b.m3u8
