@@ -1,5 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXTINF:10,
-http://cord-cutter.net:8080/zcJ8BG/214917/212896
+#EXT-X-VERSION:4
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aac",NAME="Italiano",LANGUAGE="it",DEFAULT=YES,AUTOSELECT=YES,URI="https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-italiano=180000.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=854x480,CODECS="avc1.42e01e,mp4a.40.2",AUDIO="audio-aac"
+
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=1800000.m3u8
