@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:4
 
-# --- Definimos el audio ---
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aac",NAME="Italiano",LANGUAGE="it",DEFAULT=YES,AUTOSELECT=YES,URI="https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/events(1000)/RAIItaliaSudAmerica-italiano=128000.m3u8"
 
-# --- Definimos el video y lo enlazamos con el audio ---
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,CODECS="avc1.42e01e,mp4a.40.2",AUDIO="audio-aac"
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/events(1000)/RAIItaliaSudAmerica-video=1200000.m3u8
