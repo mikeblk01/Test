@@ -16,8 +16,8 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120897
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/149622
 #EXTINF:-41 tvg-id="canal41" tvg-name="WXTV" tvg-logo="https://i0.wp.com/shawnbrownlaw.com/wp-content/uploads/2024/09/UNIVISION_Stack_Grey.png" group-title="Local",UNIVISION 41 NY
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-47 tvg-id="canal47" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",TELEMUNDO 47 NY
-
+#EXTINF:-47 tvg-id="canal47" tvg-name="WXTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/1280px-Telemundo_47_%282018%29.svg.png" group-title="Local",TELEMUNDO 47 NY
+https://moviezona593.com:8443/play/E3uopSwsAKpadqYs1Av4lwlP73vRcQvVo1k-yDXv27Y/m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/9/9a/Unimas_newyorkwfut_NewLogo.png" group-title="Local",UNIMAS 65 NY
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",TNT
