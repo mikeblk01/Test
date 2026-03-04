@@ -20,3 +20,24 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-aud
 
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIMAS 65 NY
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",TNT
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10455
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",TBS
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20867
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",AMC
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/18925
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",VICE
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46697
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",FX
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46690
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",FXX
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46699
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",USA NETWORK
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10252
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",CARTOON NETWORK
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46708
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento", NICKELODEON
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/38
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="MUSIC",MTV CLASSIC
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53734
+
