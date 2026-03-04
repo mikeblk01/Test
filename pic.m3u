@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://linkdelogo.com/logo.png" group-title="Local",CBS 2 NY
+#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/CBS_New_York_2022.svg" group-title="Local",CBS 2 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120749
 #EXTINF:-4 tvg-id="canal4" tvg-name="WNBC" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",NBC 4 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120751
