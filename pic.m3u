@@ -15,8 +15,8 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120897
 #EXTINF:-1 tvg-id="canal11" tvg-name="WNET" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",THIRTEEN PBS NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/149622
 #EXTINF:-1 tvg-id="canal41" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIVISION 41 NY
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-1 tvg-id="canal47" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",TELEMUNDO 47 NY
 
 #EXTINF:-1 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIMAS 65 NY
-https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
