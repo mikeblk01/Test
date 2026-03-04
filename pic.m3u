@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://linkdelogo.com/logo.png" group-title="Local",CBS 2 NY
+#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://linkdelogo.com/logo.png" group-title="Local",CBS 2 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120749
-#EXTINF:-1 tvg-id="canal4" tvg-name="WNBC" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",NBC 4 NY
+#EXTINF:-4 tvg-id="canal4" tvg-name="WNBC" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",NBC 4 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120751
-#EXTINF:-1 tvg-id="canal5" tvg-name="WNYW" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",FOX 5 NY
+#EXTINF:-5 tvg-id="canal5" tvg-name="WNYW" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",FOX 5 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120750
-#EXTINF:-1 tvg-id="canal7" tvg-name="WABC" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",ABC 7 NY
+#EXTINF:-7 tvg-id="canal7" tvg-name="WABC" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",ABC 7 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/121139
-#EXTINF:-1 tvg-id="canal9" tvg-name="WWOR" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",MY9 NY
+#EXTINF:-9 tvg-id="canal9" tvg-name="WWOR" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",MY9 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/176368
-#EXTINF:-1 tvg-id="canal11" tvg-name="WPIX" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",PIX11 NY
+#EXTINF:-11 tvg-id="canal11" tvg-name="WPIX" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",PIX11 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120897
-#EXTINF:-1 tvg-id="canal11" tvg-name="WNET" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",THIRTEEN PBS NY
+#EXTINF:-13 tvg-id="canal11" tvg-name="WNET" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",THIRTEEN PBS NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/149622
-#EXTINF:-1 tvg-id="canal41" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIVISION 41 NY
+#EXTINF:-41 tvg-id="canal41" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIVISION 41 NY
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="canal47" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",TELEMUNDO 47 NY
+#EXTINF:-47 tvg-id="canal47" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",TELEMUNDO 47 NY
 
-#EXTINF:-1 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIMAS 65 NY
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIMAS 65 NY
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
