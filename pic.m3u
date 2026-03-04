@@ -12,7 +12,7 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/121139
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/176368
 #EXTINF:-11 tvg-id="WPIX.us" tvg-name="WPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png" group-title="Local",PIX11 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120897
-#EXTINF:-13 tvg-id="canal11" tvg-name="WNET" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",THIRTEEN PBS NY
+#EXTINF:-13 tvg-id="canal11" tvg-name="WNET" tvg-logo="https://www.thirteen.org/wp-content/plugins/wnet-schedule/libs/images/Schedule-WNET.png" group-title="Local",THIRTEEN PBS NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/149622
 #EXTINF:-41 tvg-id="canal41" tvg-name="WXTV" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Local",UNIVISION 41 NY
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
