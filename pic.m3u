@@ -45,12 +45,38 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46699
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10252
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",MUCH
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/215268
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",MTV
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9818
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",MTV2
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9308
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",COMEDY CENTRAL
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/7466
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",VH1
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46705
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento",ADULT SWIM
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/11644
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Entretenimiento", NBC UNIVERSO 
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional", GLOBO
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",GLOBO
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",BBC ONE
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53649
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",ITV1
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53651
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",ITV3
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53665
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",CHANNEL 4
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/99138
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",TELEFE INTERNACIONAL
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/164870
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional", CARACOL
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/78700
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional", RCN
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/78694
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",RAI ITALIA
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/212900
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional", BBC ONE
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional", BBC ONE
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Music",MTV CLASSIC
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53734
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",ESPN
@@ -69,7 +95,25 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/1847
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10454
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",NBCSN BOSTON
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20939
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",NBA TV
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20073
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",MLB
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/21360
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",NHL NETWORK
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/253636
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",WWE
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/260495
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids",CARTOON NETWORK
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46708
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids", NICKELODEON
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids",BOOMERANG
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/14741
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids",NICKELODEON
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/38
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids",NICKTOONS
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/36
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids",TEENNICK
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/140004
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids",DISNEY CHANNEL
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/2206
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Kids",DISNEY XD
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/75621
