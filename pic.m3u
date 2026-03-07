@@ -2,7 +2,7 @@
 
 #EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://wayne.cbslocal.com/logo-database/logos/Cbs_NewYork_logoWhite.png" group-title="Local",CBS 2 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120749
-#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CBS_Los_Angeles_logo.svg/1280px-CBS_Los_Angeles_logo.svg.png" group-title="Local",CBS 2 LA
+#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://www.kindpng.com/picc/m/199-1996843_cbs-logo-white-hd-png-download.png" group-title="Local",CBS 2 LA
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/121234
 #EXTINF:-4 tvg-id="canal4" tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1920px-WNBC_4_NY.svg.png" group-title="Local",NBC 4 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120751
@@ -115,7 +115,7 @@ https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Rati2.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png" group-title="Music",MTV CLASSIC
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53734
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png" group-title="Music",MTV LIVE
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRG1qhGAxXmaPhTF7avf1Es8
+http://zerotwo.access.ly:2096/Olga24/3614431693/814352
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/960px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music",MTV U
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBix7_9HYwiFmxnBobicL5I
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music",BET SOUL
@@ -130,6 +130,8 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/2210
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/17707
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",ESPN U
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10255
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",ESPN DEPORTES
+http://zerotwo.access.ly:2096/Olga24/3614431693/815002
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",FS1
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/1846
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",FS2
@@ -139,7 +141,7 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10454
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",NBCSN BOSTON
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20939
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes"FOX DEPORTES
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815034
+http://zerotwo.access.ly:2096/Olga24/3614431693/815034
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes" FOX SOCCER PLUS
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815035
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes"TUDN
