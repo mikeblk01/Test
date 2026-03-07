@@ -18,7 +18,7 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/121139
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120857
 #EXTINF:-9 tvg-id="canal9" tvg-name="WWOR" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/3/3e/WWOR-TV_logo.png" group-title="Local",MY9 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/176368
-#EXTINF:-11 tvg-id="WPIX.us" tvg-name="WPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png" group-title="Local",PIX11 NY
+#EXTINF:-11 tvg-id="WPIX.us" tvg-name="WPIX" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="Local",PIX11 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120897
 #EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/KTLA_logo.svg/960px-KTLA_logo.svg.png" group-title="Local",KTLA
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120889
@@ -40,7 +40,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr-aud
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/47296
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="Local",CTV 2
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/58546
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png" group-title="Local",CITYTV
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://static.wikia.nocookie.net/24wikia/images/5/57/City.png" group-title="Local",CITYTV
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/57394
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Television_Network_2019_logo.svg/960px-Global_Television_Network_2019_logo.svg.png" group-title="Local",GLOBAL
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/57435
