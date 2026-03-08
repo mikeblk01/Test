@@ -183,6 +183,8 @@ https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Rati2.m3u8
 https://cdn1.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",Antena 3 Internacional
 http://supersonictv.live:8080/331020/901598/61876
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",MULTISHOW
+http://supersonictv.live:8080/331020/901598/85050
 
 
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png" group-title="Music",MTV CLASSIC
@@ -195,8 +197,8 @@ http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBix7_9HYwiFmxnBobicL5I
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/21844
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/01/31/image_27668826141706742293735-v6szbhbo.png" group-title="Music",BET JAMS
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRAUCqXb0W_jPasvsjTosA7E
-
-
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Music",BIS
+http://supersonictv.live:8080/331020/901598/84943
 
 
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",ESPN
