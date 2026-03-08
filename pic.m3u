@@ -29,9 +29,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-aud
 #EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Univision_34_2019.png" group-title="Local",UNIVISION 34 LA
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-47 tvg-id="canal47" tvg-name="WXTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/1280px-Telemundo_47_%282018%29.svg.png" group-title="Local",TELEMUNDO 47 NY
-http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120691
+http://supersonictv.live:8080/331020/901598/10564
 #EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telemundo_52_%282018%29.svg/960px-Telemundo_52_%282018%29.svg.png" group-title="Local", TELEMUNDO 52 LA
-http://zerotwo.access.ly:2096/Olga24/3614431693/760609
+http://supersonictv.live:8080/331020/901598/10568
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/9/9a/Unimas_newyorkwfut_NewLogo.png" group-title="Local",UNIMAS 65 NY
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KFTR-DT_%282021%29.svg/960px-KFTR-DT_%282021%29.svg.png" group-title="Local", UNIMAS 46 LA
