@@ -181,8 +181,8 @@ https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Rati1.m3u8
 https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Rati2.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",NHK WORLD
 https://cdn1.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
-
-
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",Antena 3 Internacional
+http://supersonictv.live:8080/331020/901598/61876
 
 
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png" group-title="Music",MTV CLASSIC
