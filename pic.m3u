@@ -179,7 +179,8 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/78701
 https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Rati1.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/960px-Rai_Premium_-_Logo_2017.svg.png" group-title="Internacional", RAI PREMIUM
 https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Rati2.m3u8
-
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Internacional",NHK WORLD
+https://cdn1.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 
 
 
