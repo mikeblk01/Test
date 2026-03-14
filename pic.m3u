@@ -251,15 +251,15 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20978
 http://supersonictv.live:8080/331020/901598/85050
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",WAPA AMERICA
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/76481
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png" group-title="Internacional",TVE
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",LA 1
 http://supersonictv.live:8080/331020/901598/85857
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",LA 2
 http://supersonictv.live:8080/331020/901598/85858
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",Antena 3 Internacional
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",ANTENS 3 INTERNACIONAL
 http://supersonictv.live:8080/331020/901598/61876
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",Antena 3
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",ANTENA 3
 http://supersonictv.live:8080/331020/901598/85859
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",TELECINCO
 http://supersonictv.live:8080/331020/901598/85861
@@ -271,8 +271,6 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/164870
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/78701
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",RCN NUESTRA TELE
 http://supersonictv.live:8080/331020/901598/61908
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Internacional",VENEVISION
-https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/960px-Rai_Italia_-_Logo_2017.svg.png" group-title="Internacional",RAI ITALIA
 https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Rati1.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/960px-Rai_Premium_-_Logo_2017.svg.png" group-title="Internacional", RAI PREMIUM
@@ -401,14 +399,12 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9816
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9265
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",CINEMAX
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/13380
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",5 STARMAX
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",CINEMAX CLASSICS
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/13381
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",ACTIONMAX
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",CINEMAX ACTION
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/21013
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",MOREMAX
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",CINEMAX HITS
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/17776
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",OUTERMAX
-http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/21012
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",SHOWTIME
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46214
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Premium",SHO2
