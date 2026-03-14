@@ -67,7 +67,7 @@ http://supersonictv.live:8080/331020/901598/12256
 
 
 
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/500px-TNT_Logo_2016.svg.png" group-title="Entretenimiento",TNT
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",TNT
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10455
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Entretenimiento",TBS
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20867
@@ -215,7 +215,7 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20861
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/134832
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",MOTORTREND
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10399
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/960px-Universo_2017.svg.png" group-title="Entretenimiento", NBC UNIVERSO 
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento", UNIVERSO 
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="Entretenimiento", GALAVISION
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/58770
@@ -287,7 +287,7 @@ https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Nhk.m3u8
 
 
 
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png" group-title="Music",MTV CLASSIC
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",MTV CLASSIC
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53734
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png" group-title="Music",MTV LIVE
 http://supersonictv.live:8080/331020/901598/13752
