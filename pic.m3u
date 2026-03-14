@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://wayne.cbslocal.com/logo-database/logos/Cbs_NewYork_logoWhite.png" group-title="Local",CBS 2 NY
+#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="" group-title="Local",CBS 2 NY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/120749
 #EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/CBS2_logo1.svg/960px-CBS2_logo1.svg.png" group-title="Local",CBS 2 LA
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/121234
@@ -103,7 +103,7 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/11651
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9818
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",MTV2
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9308
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",COMEDY CENTRAL
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",COMEDY CENTRAL
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/7466
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",VH1
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46705
