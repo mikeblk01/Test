@@ -302,7 +302,7 @@ https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
 https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO 2K
 https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO ICONOS LATINOS
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://usmediaconsulting.com/wp-content/uploads/2023/12/vevo_wordmark_white.png" group-title="Music",VEVO ICONOS LATINOS
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO
 
