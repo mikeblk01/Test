@@ -369,6 +369,8 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9828
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/21089
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Deportes",MSG PLUS
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9276
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Deportes",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Deportes",TELEDEPORTE
 http://supersonictv.live:8080/331020/901598/85911
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Deportes",EUROSPORT
