@@ -36,6 +36,8 @@ http://supersonictv.live:8080/331020/901598/10568
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KFTR-DT_%282021%29.svg/960px-KFTR-DT_%282021%29.svg.png" group-title="Local", UNIMAS 46 LA
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr-audio_eng=128000-video=6000000.m3u8
+#EXTINF:-2 tvg-id="canal1" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KFTR-DT_%282021%29.svg/960px-KFTR-DT_%282021%29.svg.png" group-title="Local", ESTRELLA TV
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/3840px-CTV_logo_2018.svg.png" group-title="Local",CTV
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/47296
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="Local",CTV 2
@@ -163,7 +165,7 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/16149
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/18366
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",COZI
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/11868
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",DECADES
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",CHATCHY TV
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20189
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Entretenimiento",ION
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9297
@@ -291,7 +293,16 @@ http://supersonictv.live:8080/331020/901598/13752
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",MTV U
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBix7_9HYwiFmxnBobicL5I
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO POP
-https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBC19000017V
+https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO 90S
+https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO 2K
+https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO
+
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO
+
+
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",BET SOUL
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/21844
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",BET JAMS
