@@ -223,8 +223,8 @@ http://supersonictv.live:8080/331020/901598/22171
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/58770
 
 
-#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",CNN
-http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/1817
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",ABC NEWS
+https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",FOX NEWS
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/1818
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",CBS NEWS
@@ -233,6 +233,8 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46754
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/21376
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",CNBC
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9815
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",CNN
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/1817
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",HLN
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/17748,
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Noticias",FOX BUSSINES
