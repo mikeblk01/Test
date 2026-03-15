@@ -288,6 +288,8 @@ https://raw.githubusercontent.com/mikeblk01/Test/refs/heads/main/Nhk.m3u8
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/53734
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",MTV LIVE
 http://supersonictv.live:8080/331020/901598/13752
+#EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",VEVO POP
+https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBC19000017V
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",MTV U
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBix7_9HYwiFmxnBobicL5I
 #EXTINF:-65 tvg-id="canal65" tvg-name="WFUT" tvg-logo="" group-title="Music",BET SOUL
