@@ -63,21 +63,25 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/12254
 http://supersonictv.live:8080/331020/901598/12255
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="UK",ITV 4
 http://supersonictv.live:8080/331020/901598/12256
+
+
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",TNT
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10455
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Entretenimiento",TBS
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",TBS
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/20867
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/330px-TruTV_logo_2014.png" group-title="Entretenimiento",TRUTV
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",TRUTV
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10224
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",TCM
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRIOv9PfHIoongOopRLPVXtI
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",AMC
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/18925
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",AMC THRILLERS
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/66243
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",A&E
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/59056
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/AXSTV_Logo.jpg" group-title="Entretenimiento",AXSTV
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",AXSTV
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/48324
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/FreeForm-Logo.png" group-title="Entretenimiento",FREEFORM
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",FREEFORM
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/13370
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",VICE
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46697
@@ -87,11 +91,11 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46690
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46699
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",FXM
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10260
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/960px-USA_Network_2020.svg.png" group-title="Entretenimiento",USA NETWORK
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",USA NETWORK
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10252
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",MUCH
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/215268
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="Entretenimiento",SYFY
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",SYFY
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46685
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",E!
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/11651
@@ -107,7 +111,7 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46705
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/13702
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",CMT
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46706
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/960px-TV_Land_2015_logo.svg.png" group-title="Entretenimiento",TVLAND
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",TVLAND
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46696
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",ADULT SWIM
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/11644
@@ -127,6 +131,8 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/7323
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9229
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",CANAL COCINA
 http://supersonictv.live:8080/331020/901598/85913
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",FYI
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9240
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",SHOWCASE
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/47366
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Entretenimiento",FUSE
@@ -361,12 +367,28 @@ http://supersonictv.live:8080/331020/901598/85911
 http://supersonictv.live:8080/331020/901598/85900
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes",EUROSPORT 2
 http://supersonictv.live:8080/331020/901598/85901
-#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes",EUROSPORT 4K
-https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="canal65" tvg-logo="https://linkdelogo.com/logo2.png" group-title="Deportes",
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes",SPORTSNET
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/41836
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes",SPORTSNET ONE
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10247
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes",SPORTSNET 360
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/2219
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes",SPORTSNET WORLD
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/75675
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes", TSN 1
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/57292
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes", TSN 2
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/16129
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes", TSN 3
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/10389
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes", TSN 4
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/16130
+#EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Deportes", TSN 5 
+http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/16131
 
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="PPV",WWE RAW
 http://supersonictv.live:8080/331020/901598/86203
+
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Kids",CARTOON NETWORK
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/46708
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Kids",BOOMERANG
