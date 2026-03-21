@@ -377,10 +377,15 @@ http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/38
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/36
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Kids",TEENNICK
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/140004
+#EXTINF:-1 tvg-id="canal65" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png" group-title="Kids",NICKELODEON CLÁSICO 
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Kids",DISNEY CHANNEL
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/2206
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Kids",DISNEY XD
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/75621
+
+
+
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Premium",HBO
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/9264
 #EXTINF:-1 tvg-id="canal65" tvg-logo="" group-title="Premium",HBO DRAMA
