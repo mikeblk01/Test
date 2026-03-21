@@ -36,9 +36,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-aud
 #EXTINF:-1 tvg-id="UniMasKFTR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KFTR-DT_%282021%29.svg/960px-KFTR-DT_%282021%29.svg.png" group-title="Local",UNIMAS 46 LA
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="" group-title="Local",ESTRELLA TV
-https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="" group-title="Local",LAS ESTRELLAS
-http://supersonictv.live:8080/331020/901598/61369
+http://supersonictv.live:8080/331020/901598/61790
 #EXTINF:-1 tvg-id="CTVToronto-CFTO.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/3840px-CTV_logo_2018.svg.png" group-title="Local",CTV
 http://cord-cutter.net:8080/Browns.3630@gmail.com/Browns.3630@2022/47296
 #EXTINF:-1 tvg-id="CTV2London-CFPL.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="Local",CTV 2
